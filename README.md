@@ -1,4 +1,4 @@
-# covid19_app
+# Covid19_app
 
 This app is to help University of Illinois Urbana-Champaign to give them supplementary information to help them guide through the pandemic.
 
